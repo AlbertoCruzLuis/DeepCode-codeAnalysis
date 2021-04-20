@@ -1,5 +1,7 @@
 # Demo of how use DeepCode.ai
 
+[![deepcode](https://www.deepcode.ai/api/gh/badge?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwbGF0Zm9ybTEiOiJnaCIsIm93bmVyMSI6IkFsYmVydG9DcnV6THVpcyIsInJlcG8xIjoiRGVlcENvZGUtY29kZUFuYWx5c2lzIiwiaW5jbHVkZUxpbnQiOmZhbHNlLCJhdXRob3JJZCI6MjkyNDgsImlhdCI6MTYxODkzNzE4OH0.4k2IDqI768aVQelqTLgLmEwsXFAd-GYX2_KcTsWZAbY)](https://www.deepcode.ai/app/gh/AlbertoCruzLuis/DeepCode-codeAnalysis/_/dashboard?utm_content=gh%2FAlbertoCruzLuis%2FDeepCode-codeAnalysis)
+
 [DeepCode.ai](https://www.deepcode.ai/) is a real-time semantic code analysis - powered by AI.
 
 ## Supported languages
