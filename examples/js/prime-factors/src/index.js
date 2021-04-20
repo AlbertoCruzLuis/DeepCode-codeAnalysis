@@ -18,4 +18,16 @@ const primeFactors = (num) => {
 };
 
 
-console.log(primeFactors(15));
+const showPrimeFactors = (listNumbers) => {
+  // bad implementation
+  /*listNumbers.map((number) => {
+    console.log(primeFactors(number));
+  })*/
+
+  for (const number of listNumbers) {
+    console.log(primeFactors(number));
+  }
+}
+
+
+showPrimeFactors([5,8,3,6]);
