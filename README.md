@@ -4,6 +4,8 @@
 
 [DeepCode.ai](https://www.deepcode.ai/) is a real-time semantic code analysis - powered by AI.
 
+[![InstallDeepcodeExtensionVscode](https://img.youtube.com/vi/vQaZTSuDaqA/0.jpg)](https://www.youtube.com/watch?v=vQaZTSuDaqA)
+
 ## Supported languages
 - Javascript
 - Typescript
@@ -23,6 +25,8 @@
 ## Steps analyze code in vscode
 
 - Download Extension [DeepCode](https://marketplace.visualstudio.com/items?itemName=DeepCode.deepcode)
+
+[![InstallDeepcodeExtensionVscode](https://img.youtube.com/vi/3J5cVuEJ8WE/0.jpg)](https://www.youtube.com/watch?v=3J5cVuEJ8WE)
 
 Example: This may produce an error if listNumbers is undefined.
 
@@ -50,6 +54,8 @@ const showPrimeFactors = (listNumbers) => {
 
 ## Resources
 - https://medium.com/deepcode-ai/deepcodes-ai-code-review-vs-other-static-analysis-tools-fda95ee51e6b
+
+- https://medium.com/deepcode-ai/deepcode-performance-comparison-with-other-static-code-analyzers-8e32fb42a228
 
 - https://www.deepcode.ai/blog/deepcode-adds-ai-based-static-code-analysis-support-for-c-and-c
 
